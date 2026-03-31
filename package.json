@@ -1,0 +1,22 @@
+{
+  "name": "aaswad-51",
+  "version": "1.0.0",
+  "description": "Authentic Maharashtrian food delivery - Aaswad 51",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["food-delivery", "maharashtrian", "pune"],
+  "author": "Aaswad 51",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.5",
+    "vite": "^8.0.3"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.101.0"
+  }
+}
